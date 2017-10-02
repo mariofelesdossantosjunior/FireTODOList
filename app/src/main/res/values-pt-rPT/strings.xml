@@ -18,7 +18,7 @@
     <string name="action_delete">Apagar</string>
     <string name="action_edit">Editar</string>
     <string name="action_show">Mostrar Detalhes</string>
-    <string name="select_the_list">Seleccione a lista</string>
+    <string name="select_the_list">Selecione a lista</string>
     <string name="action_cancel">Cancelar</string>
     <string name="field_empty">Este campo é obrigatório</string>
     <string name="title_activity_edit_task">Editar Tarefa</string>
